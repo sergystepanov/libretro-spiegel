@@ -6,3 +6,4 @@ that are missing from the main repository.
 ### Cores
 
 - mupen64plus_next -- macOS/arm
+- pcsx-rearmed -- linux/x86_64 (custom_mmap disabled)
